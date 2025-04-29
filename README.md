@@ -140,7 +140,14 @@ df.groupby(['Weather.Condition','Injury.Severity'])[['Total.Fatal.Injuries','Tot
 - Select aircraft certified for all-weather operations to mitigate weather-related risks.
 
 
----
+
+
+
+
+
+
+## Explore the interactive Dashboard [here](https://public.tableau.com/app/profile/leah.mukundi/viz/AircraftRiskAnalysis_17459423620470/Dashboard1)
+
 
 ## Contact
 **[Leah Mukundi]**
